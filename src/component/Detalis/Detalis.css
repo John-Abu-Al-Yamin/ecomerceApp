@@ -1,0 +1,98 @@
+
+.detalis{
+    margin: 100px 0;
+}
+.title-detalis{
+    text-align: center;
+    margin: 14px 0;
+    
+}
+.cards-detalis{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 28px;
+    background-color: rgba(200, 200, 200, 0.15);
+    border-radius: 24px;
+
+}
+
+.card-detali img{
+    width: 300px;
+    background: transparent;
+    border-radius: 8px;
+}
+.info-detalis{
+    width: 500px;
+    padding: 0 6px;
+    line-height: 1.8;
+}
+.info-detalis h6{
+    color: #444;
+    padding-left: 8px;
+}
+.info-detalis h3{
+    background: white;
+    width: 160px;
+    border-radius: 22px 12px;
+
+}
+.info-detalis h3{
+    text-align: center;
+    margin: 14px 0;
+}
+
+.btn-add{
+    color: black;
+    border: none;
+    width: 140px;
+    padding: 7px 16px;
+    border-radius: 18px 8px;
+    margin: 6px 0;
+    background: gold;
+    cursor: pointer;
+    font-weight: bold;
+    transition:all 0.3s ease;
+}
+.btn-add:hover{
+    border-radius: 8px 18px;
+
+}
+
+@media screen and (max-width:768px) {
+    .cards-detalis{
+        display: flex;
+        flex-wrap: wrap;
+        padding-left: 10px;
+    }
+
+    .card-detali img {
+     width: 240px;
+    }
+    .info-detalis{
+        width: 350px;
+        
+    }
+    .btn-add{
+        margin-bottom: 14px;
+    }
+}
+
+
+@media screen and (max-width:567px) {
+    .cards-detalis{
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .card-detali img {
+     width: 210px;
+    }
+    .info-detalis{
+        width: 350px;
+        
+    }
+    .btn-add{
+        margin-bottom: 16px;
+    }
+}
