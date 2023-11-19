@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ecomerceApp/static/css/main.abc7ad3c.css",
+    "main.js": "/ecomerceApp/static/js/main.4261bddb.js",
+    "static/js/787.87e4c25d.chunk.js": "/ecomerceApp/static/js/787.87e4c25d.chunk.js",
+    "static/media/banner-img.png": "/ecomerceApp/static/media/banner-img.0412d66280a0273effa2.png",
+    "static/media/newsletter-bg.jpeg": "/ecomerceApp/static/media/newsletter-bg.b6f22313149bdbb35069.jpeg",
+    "index.html": "/ecomerceApp/index.html",
+    "main.abc7ad3c.css.map": "/ecomerceApp/static/css/main.abc7ad3c.css.map",
+    "main.4261bddb.js.map": "/ecomerceApp/static/js/main.4261bddb.js.map",
+    "787.87e4c25d.chunk.js.map": "/ecomerceApp/static/js/787.87e4c25d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abc7ad3c.css",
+    "static/js/main.4261bddb.js"
+  ]
+}
